@@ -10,6 +10,6 @@
 Meu nome é Cíntia Santos, sou Desenvolvedora Front-end. :heart:
 
 - :office_worker: Em busca de Recolocação
-- :blue_heart: Techs: React.js, React Native, Node.js, TypeScript, entre outras.
+- :blue_heart: Techs: Angular, React.js, React Native, Node.js, TypeScript, entre outras.
 
 ---
